@@ -1,0 +1,27 @@
+body {
+margin: 0 auto;
+background-color: #bada55;
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.container {
+background-color: aliceblue;
+box-sizing: content-box;
+border-radius: 0.4em;
+padding: 2rem;
+font-size: 2rem;
+}
+
+button {
+background-color: transparent;
+border: none;
+display: flex;
+gap: 5px;
+font-size: 1.3rem;
+color: red;
+margin-bottom: -0.5rem;
+}
+
